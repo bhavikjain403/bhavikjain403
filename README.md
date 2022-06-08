@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bhavikjain403/bhavikjain403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +14,9 @@ Here are some ideas to get you started:
 -->
 <div style="background-color:grey">
 <div align="center">
-<h1>Hello, I'm Bhavik Jain</h1>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+<h1>Hello, I'm Bhavik Jain
+<div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"><div>
+</h1>
 </div>
 <h3 align="center">Activities</h3>
 
