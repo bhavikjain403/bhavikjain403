@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div style="background-color:grey">
 <div align="center">
 <h1>Hello, I'm Bhavik Jain
-<div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"><div>
+<div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><div>
 </h1>
 </div>
 <h3 align="center">Activities</h3>
