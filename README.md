@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div style="background-color:grey">
 <div align="center">
 <h1>Hello, I'm Bhavik Jain
-<div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"><div>
+<div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="75px"><div>
 </h1>
 </div>
 <h3 align="center">Activities</h3>
@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavik-jain-0a9ba0217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-soham" height="30" width="40" /></a>
-<a href="https://www.instagram.com/bhavikjain2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-soham" height="30" width="40" /></a>
-  
+<a href="https://www.linkedin.com/in/bhavik-jain-0a9ba0217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-bhavik" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bhavikjain2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram-bhavik" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/bhavikjain403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="123" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bhavikjain403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="123" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/thebhavikjain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -59,11 +61,11 @@ Here are some ideas to get you started:
     <a href="https://cloud.google.com"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="cloud" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikjain403&show_icons=true&locale=en&layout=compact" alt="soham rane" width="40%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikjain403&show_icons=true&locale=en&layout=compact" alt="bhavik jain" width="40%"/></p>
 
-<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikjain403&show_icons=true&locale=en" alt="soham rane" width="45%"/></p>
+<p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikjain403&show_icons=true&locale=en" alt="bhavik jain" width="45%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavikjain403&%22%20alt=%22soham%20rane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhavikjain403" /></p>
 </div>
 
- <p align="left"> <a href="https://github.com/bhavikjain403/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavikjain403" alt="soham rane" /></a> </p>
+ <p align="left"> <a href="https://github.com/bhavikjain403/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhavikjain403" alt="bhavik jain" /></a> </p>
