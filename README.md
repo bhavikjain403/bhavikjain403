@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 Have a look at my Task Manager *https://taskmann.netlify.app*
 
-- 📫 Have a look at my Task Manager *https://resto-fusion.netlify.app*
+- 📫 Have a look at my Restaurant Website *https://resto-fusion.netlify.app*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
