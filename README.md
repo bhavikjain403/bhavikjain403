@@ -70,7 +70,7 @@ Here are some ideas to get you started:
     <a href="https://cloud.google.com"> <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="cloud" width="40" height="40"/> </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikjain403" alt="bhavik jain" width="40%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavikjain403&layout=compact" alt="bhavik jain" width="40%"/></p>
 
 <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavikjain403" alt="bhavik jain" width="45%"/></p>
 
