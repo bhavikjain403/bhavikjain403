@@ -27,9 +27,11 @@ Here are some ideas to get you started:
   
 - I’m currently learning *Web Development and ML*
 
-- 💬 Ask me about *Programming languages, Development frameworks, Web Development*
+- 💬 Ask me about *Programming languages, Development frameworks, Web Development, Competititve Programming*
 
 - 📫 How to reach me *bhavikjain403@gmail.com*
+  
+- ⚡ Have a look at my Financial Management website *https://fin-track.vercel.app*
 
 - ⚡ Have a look at my Task Manager *https://taskmann.netlify.app*
 
