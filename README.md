@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div style="background-color:grey">
 <div align="center">
-<h1>Hello, I'm Bhavik Jain
+<h1>Hi, I'm Bhavik Jain
 <div><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="75px"><div>
 </h1>
 </div>
